@@ -24,3 +24,5 @@ media
 venv/
 
 temp.csv
+
+.db.sqlite
